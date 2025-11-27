@@ -4,6 +4,7 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2510.06534-b31b1b.svg)](https://arxiv.org/abs/2510.06534)
 [![arXiv](https://img.shields.io/badge/arXiv-2507.05495-b31b1b.svg)](https://arxiv.org/abs/2507.05495)
+[![Website](https://img.shields.io/badge/Website-Project%20Page-blue.svg)](https://cxcscmu.github.io/behavior-priming-agentic-search.ai/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 </div>
@@ -11,7 +12,6 @@
 This repository contains the agent scaffold introduced in the **[Deep Research Comparator paper](https://arxiv.org/abs/2507.05495)**, and the behavior-priming, SFT and evaluation toolkit in the **[Behavior Priming paper](https://arxiv.org/abs/2510.06534)**. For the RL training in the Behavior Priming paper, please refer to [this repository](https://github.com/cxcscmu/verl-agent-deepresearch).
 
 ## Overview
-
 We study **what reasoning behaviors make search agents succeed** and how to reliably instill them via **behavior-targeted post-training**.
 
 Key components in this repo:
